@@ -1,0 +1,50 @@
+:root {
+    --golden: #fed136;
+    --pi__dark: #222222;
+    --gay: #777777;
+    --wite: #ffffff;
+  }
+  
+  body {
+    font-family: "Montserrat", sans-serif;
+  }
+  .logo {
+    font-family: "Bilbo Swash Caps", cursive;
+    font-size: 36px;
+    font-weight: 400;
+    color: var(--golden);
+  }
+  .servicesitem-text {
+    color: var(--gay);
+    font-family: "Roboto Slab", serif;
+    font-size: 14px;
+  
+  }
+  .serviceslink {
+    color: var(--golden);
+    font-size: 14px;
+  }
+  .title {
+    font-size: 40px;
+    font-weight: 700;
+    color: var(--pi__dark);
+  }
+  .servicestitle {
+    
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--pi__dark);
+  }
+  .button{
+      font-size: 18px;
+      font-weight: 700;
+  }
+  footer{
+    background-color: var(--pi__dark);
+    color: var(--pi__dark);
+      font-size: 14px;
+  }
+  .contact {
+    background-color: var(--pi__dark);
+    color: var(--wite);
+  }
